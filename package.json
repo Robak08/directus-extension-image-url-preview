@@ -58,7 +58,7 @@
     "prepublishOnly": "npm run build"
   },
   "devDependencies": {
-    "@directus/extensions-sdk": "11.0.10",
+    "@directus/extensions-sdk": "^17.1.4",
     "typescript": "5.9.3",
     "vue": "3.5.33"
   },
